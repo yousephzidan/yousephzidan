@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yousephzidan10@proton.me**
 
-- ⚡ Fun fact **What if we are indeed in a simulation?**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
