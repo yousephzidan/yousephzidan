@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youseph Zidan</h1>
-<h3 align="center">With 3+ years of hands on experience in software engineering, being a self taught, I'm always looking to expand my knowledge, earn more skills, and solve real world problems.</h3>
+<h3 align="center">Software Engineer with +3 years of experience in backend logic, frontend interfaces, and automation; specializing in creating solutions that optimize workflows and solve real-world problems through clean, maintainable code.</h3>
 
 - 🔭 I’m currently working on **a locally hosted chat application**
 
