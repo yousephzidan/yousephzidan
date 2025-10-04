@@ -3,7 +3,7 @@
   <h1 style="margin-top: 20px; font-family: monospace; color: #E0E0E0;">
     Youseph Zidan
     <br>
-    <div style="font-size: 18px; color: #B0B0B0; padding-top: 10px">Software Engineer</div>
+    <h3 style="font-size: 18px; color: #B0B0B0; padding-top: 10px">Software Engineer</h3>
   </h1>
   <p>
     I'm Youseph Zidan, a software engineer with over three years of hands-on experience crafting real world applications from frontend interfaces to backend logic and automation scripts. I focus on writing robust, scalable, and user centric solutions, always bridging creative ideas with functional execution. Passionate about learning and collaboration, I enjoy solving complex problems and contributing to impactful projects.
