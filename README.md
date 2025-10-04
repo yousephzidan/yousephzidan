@@ -11,9 +11,10 @@
   </p>
 </div>
 
+<!--
 <div style="margin-bottom: 20px;">
   <div style="display: flex; align-items: center; gap: 8px;">
-    <h2>./tech_stack.conf</h2>
+    <h2><img src="./assets/github.gif" width="36" alt="fun animation" style="border-radius: 16px;" /><br> | ./tech_stack.conf <tr> </h2>
     <img src="./assets/github.gif" width="36" alt="fun animation" style="border-radius: 16px;" /><br>
   </div>
 
@@ -50,6 +51,7 @@
     <div style="background-color:#101010; color:#fff; padding:8px 12px; border-radius:8px;">CI/CD</div>
   </div>
 </div>
+-->
 
 <div style="margin-bottom: 20px;">
   <h2>Contact</h2>
