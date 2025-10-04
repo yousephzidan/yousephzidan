@@ -6,8 +6,7 @@
     <div style="font-size: 18px; color: #B0B0B0; padding-top: 10px">Software Engineer</div>
   </h1>
   <p>
-    I'm Youseph Zidan, a software engineer with over three years of hands-on experience crafting real world applications from frontend interfaces to backend logic and automation scripts. I focus on writing robust, scalable, and user centric solutions, always bridging creative ideas with functional execution. Passionate about learning and collaboration, I enjoy solving complex problems and contributing to impactful projects.<br><br>
-    As a self-taught developer, I’m constantly exploring new technologies and pushing myself with fresh challenges. I pick up concepts quickly and adapt fast, which helps me turn ideas into working solutions efficiently. My curiosity drives me to keep improving, stay current, and expand my skills across different areas of software development.
+    I'm Youseph Zidan, a software engineer with over three years of hands-on experience crafting real world applications from frontend interfaces to backend logic and automation scripts. I focus on writing robust, scalable, and user centric solutions, always bridging creative ideas with functional execution. Passionate about learning and collaboration, I enjoy solving complex problems and contributing to impactful projects.
   </p>
 </div>
 
